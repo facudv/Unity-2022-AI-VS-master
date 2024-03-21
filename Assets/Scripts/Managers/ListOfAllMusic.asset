@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd33f3852376ef44896b69e49c58d62, type: 3}
+  m_Name: ListOfAllMusic
+  m_EditorClassIdentifier: 
+  hiphopMusic:
+  - {fileID: 8300000, guid: 1c06379e5916e954aacc2496dafed08d, type: 3}
+  - {fileID: 8300000, guid: c41b31a3228456f4590d1128918e6d70, type: 3}
+  - {fileID: 8300000, guid: ae892e8187bcb6c4f9e0a431bddd8f61, type: 3}
+  - {fileID: 8300000, guid: 38e4e164811a0c94faa8700bdc12a316, type: 3}
+  - {fileID: 8300000, guid: 9c8e6cf8acffcc34886d225a235203e5, type: 3}
+  - {fileID: 8300000, guid: a85e9ab278148ad44bbb6e276aab5e48, type: 3}
+  rockPunkMusic:
+  - {fileID: 8300000, guid: 925deb1298aa911478a0e242e8158f2e, type: 3}
+  - {fileID: 8300000, guid: 91ef0cbff6b080f42a40444e44eb61f8, type: 3}
+  - {fileID: 8300000, guid: df505e1c7be955f4da2b5bef52fbcc5c, type: 3}
+  - {fileID: 8300000, guid: dcba771cab3dc6141ac648e910426ec0, type: 3}
+  - {fileID: 8300000, guid: 30edaa9fb90f59a4da9e5f41384043f0, type: 3}
+  randomMusic:
+  - {fileID: 8300000, guid: 624ceebdcd64e1048a8c311eb6f92025, type: 3}
+  - {fileID: 8300000, guid: 84f953f4e3c6ecb4481e79b25f77e272, type: 3}
+  - {fileID: 8300000, guid: 24c5576ffc4094e44a5a513b97ff2a34, type: 3}
+  - {fileID: 8300000, guid: dc647b2f6b77ac345817b4f3e094ff73, type: 3}
+  - {fileID: 8300000, guid: 80f02786a751a2444b65a0dfe05647cf, type: 3}
+  - {fileID: 8300000, guid: b9fb5a71f7ded974db37222d0cb02ac8, type: 3}
+  homiesWinMusic:
+  - {fileID: 8300000, guid: 4334c0671b38ae14fa6e30c8c7bc084a, type: 3}
+  - {fileID: 8300000, guid: 06c4e81e09ca1064d9574feaf95ad049, type: 3}
+  - {fileID: 8300000, guid: ca7e27462ddfdf643b287d86a9236e10, type: 3}
+  - {fileID: 8300000, guid: 400d61d092b709d419fa2f1475a699f5, type: 3}
+  - {fileID: 8300000, guid: 57220aad6f8bcff4fb11b425910b93ed, type: 3}
+  policeWinMusic:
+  - {fileID: 8300000, guid: 8ec56fc2354d8294bb60620138204c56, type: 3}
+  - {fileID: 8300000, guid: cc41cacf2fb67294b9d29b62e15a8f38, type: 3}
+  - {fileID: 8300000, guid: 2119ed3f09ba7394fa614d9ca3954eb4, type: 3}
+  - {fileID: 8300000, guid: cbf4f7893603b2448af1e300d19e0348, type: 3}
+  - {fileID: 8300000, guid: c237b53e03fb8c049ba0f9e2da8dd015, type: 3}
